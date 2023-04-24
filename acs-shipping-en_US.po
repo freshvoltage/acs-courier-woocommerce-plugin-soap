@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ACS Shipping\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-14 19:26+0000\n"
+"PO-Revision-Date: 2020-04-14 19:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: acs_shipping_method.php:203
+msgid "</H4></br></br></br>"
+msgstr ""
+
+#. echo '<div class="notice notice-warning is-dismissible"><p>Η παραγγελία είναι ' . $status . '</p></div>';
+#: acs_shipping_method.php:393
+msgid "</p></div>"
+msgstr ""
+
+#: acs_shipping_method.php:177
+msgid "</strong></p>"
+msgstr ""
+
+#: acs_shipping_method.php:234 acs_shipping_method.php:240
+msgid ""
+"<div class=\"notice notice-error is-dismissible\"><p>Άκυρος αριθμός "
+"εντολής</p></div>"
+msgstr ""
+"<div class=\"notice notice-error is-dismissible\"><p>Wrong Destination "
+"Code</p></div>"
+
+#. echo '<div class="notice notice-error"><p>Σφάλμα</p></div>';
+#: acs_shipping_method.php:329
+msgid "<div class=\"notice notice-error\"><p>Σφάλμα</p></div>"
+msgstr "<div class=\"notice notice-error\"><p>Error</p></div>"
+
+#. echo '<div class="notice notice-warning is-dismissible"><p>Μη έγκυρος αριθμός Voucher</p></div>';
+#: acs_shipping_method.php:320
+msgid ""
+"<div class=\"notice notice-warning is-dismissible\"><p>Μη έγκυρος αριθμός "
+"Voucher</p></div>"
+msgstr ""
+
+#. Name of the plugin
+msgid "ACS Shipping"
+msgstr ""
+
+#. Description of the plugin
+msgid "Address Validation, Price Calculation, Vouchers, Tracking, Receipt List"
+msgstr ""
+
+#. Author of the plugin
+msgid "Fresh Voltage"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://freshvoltage.com/"
+msgstr ""
+
+#: acs_shipping_method.php:143
+msgid ""
+"Λάθος διεύθυνση ή ταχυδρομικός κώδικας. Παρακαλώ ξαναπροσπαθήστε χωρίς κενά "
+"ή παύλες (π.χ. ΜΙΑΟΥΛΗ 16) (ΓΕΡΑΚΑΣ) (15344)​"
+msgstr ""
+"Wrong address or zip code. Please try again using Greek characters (eg "
+"ΜΙΑΟΥΛΗ 16 ΓΕΡΑΚΑΣ 15344"
