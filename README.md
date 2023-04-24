@@ -1,7 +1,12 @@
 WooCommerce ACS Shipping Method Plugin
 
+Since the SOAP version of ACS Courrier services will become outdated and will be totally replaced by REST services, we give this version to the community.
 
-======================================
+Read More here:
+
+https://www.freshvoltage.com/el/portfolio_page/acs-courier-plugin-%ce%b3%ce%b9%ce%b1-woocommerce/
+
+Version Info
 1.0.0 Initial Version
 1.0.1 Fixed ACS Voucher Number showing on email notice when null
 1.0.2 Fixed voucher data from Shipping address
