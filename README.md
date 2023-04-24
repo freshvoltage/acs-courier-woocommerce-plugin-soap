@@ -6,6 +6,9 @@ Read More here:
 
 https://www.freshvoltage.com/el/portfolio_page/acs-courier-plugin-%ce%b3%ce%b9%ce%b1-woocommerce/
 
+Users Manual (Greek)
+
+https://www.freshvoltage.com/wp-content/uploads/2023/04/Fresh_Voltage_ACS_-Shipping_Plugin-AdministrationConfiguration_Manual.pdf
 
 Version Info
 
